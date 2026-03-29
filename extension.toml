@@ -1,0 +1,10 @@
+id = "zed-pytest-local"
+name = "pytest-local"
+version = "0.1.0"
+schema_version = 1
+authors = ["Narender Singh"]
+description = "Auto-activates on Python file open: detects .venv, installs pytest plugin, creates pytest_local.ini. No project files touched."
+repository = "https://github.com/SLR-Software-Solutions-Inc/zed-pytest-local"
+
+[language_servers.pytest-local]
+languages = ["Python"]
