@@ -201,7 +201,7 @@ enabled = true
 ### Dev extension install process (Zed)
 1. `Cmd+Shift+X` → Extensions panel
 2. Click **"Install Dev Extension"**
-3. Select `/Users/narender/dev/zed-pytest-local`
+3. Select `/Users/narender/Developer/tools/zed-pytest-local`
 4. Zed compiles and loads — check `zed: open log` for errors
 
 ---
